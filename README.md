@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, This is Abdullah Faiz Ur Rahman Khilji
-[![Gmail Badge](https://img.shields.io/badge/-abdullah_ug@cse.nits.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullah_ug@cse.nits.ac.in)](mailto:abdullah_ug@cse.nits.ac.in) 
+[![Gmail Badge](https://img.shields.io/badge/-abdullah__ug@cse.nits.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullah_ug@cse.nits.ac.in)](mailto:abdullah_ug@cse.nits.ac.in) 
 [![Linkedin Badge](https://img.shields.io/badge/-abdullah1khilji-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah1khilji/)](https://www.linkedin.com/in/abdullah1khilji/) [![Github Badge](https://img.shields.io/badge/-abdullahkhilji-grey?style=flat&logo=github&logoColor=white&link=https://github.com/abdullahkhilji/)](https://www.github.com/abdullahkhilji/) [![Twitter Badge](https://img.shields.io/badge/-abdullah1khilji-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/abdullah1khilji/)](https://www.twitter.com/abdullah1khilji/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://abdullahkhilji.github.io//)](https://abdullahkhilji.github.io//) <p align='left'>CSE Department | NIT Silchar</p><p align='left'> You can view my resume <a href='https://abdullahkhilji.github.io/resume.pdf ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=abdullahkhilji alt=abdullahkhilji /> </p>
